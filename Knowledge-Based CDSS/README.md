@@ -16,6 +16,16 @@ This Knowledge-Based Clinical Decision Support System (CDSS) is a Python applica
   - Semantic network visualization of medical knowledge
   - Patient-disease frame relationship visualization
 
+### If-Then
+![image](https://github.com/user-attachments/assets/02070966-b7bb-4509-913a-7391a51115da)
+
+### Semantic Network
+![image](https://github.com/user-attachments/assets/0468079f-5a49-4096-9fe0-fb2362cfbca7)
+
+### Frame-Based Visualization
+![image](https://github.com/user-attachments/assets/27afdf4f-08c7-4658-93a0-35bbac9b16e7)
+
+
 ## System Requirements
 - Python 3.7+
 - PyQt5

@@ -444,7 +444,7 @@ class Ui_MainWindow(object):
         font.setWeight(75)
         self.tab3_stiffness.setFont(font)
         self.tab3_stiffness.setObjectName("tab3_stiffness")
-        self.tab3_diagnose = QtWidgets.QPushButton(self.groupBox_6)
+        self.tab3_diagnose = QtWidgets.QPushButton(self.groupBox_6, clicked = lambda: frames_diagnose(self))
         self.tab3_diagnose.setGeometry(QtCore.QRect(210, 380, 151, 41))
         self.tab3_diagnose.setStyleSheet("QPushButton {\n"
 "    background-color: rgb(255, 124, 17);;\n"
